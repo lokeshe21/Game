@@ -23,7 +23,7 @@ public class Area{
 	public static void main(String[] args){
 		Area a= new Area();
 		a.areaCalculate(2);
-		a.areaCalculate(30,10);
+		a.areaCalculate(35,10);//length changed
 		a.areaCalculate(9.5);
 	}
 }
